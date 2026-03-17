@@ -1,2 +1,2 @@
 # Thesis-TinyTales
-TinyTales is a mobil application that uses generative AI to grates customized children's stories and illustrations based on the users's chosen age group and theme.
+TinyTales is a mobile application that uses generative AI to generate customized children's stories and illustrations based on the user's chosen age group and theme.
